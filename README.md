@@ -3,9 +3,9 @@
 
 # 👋 Hello :)
 
-My name's Philip. I'm a buddying web developer and a current bootcamper at SchoolOfcode [LINK]. Artistic by nature, I tend to gravitate towards the visual aspects of the front end. However, I also find backend fascinating, in line with the interest in data and statistics which I took away from my Psychology BSc degree. </br>
+My name's Philip. I'm a buddying web developer and a current bootcamper at [School Of Code]("https://www.schoolofcode.com/"). Artistic by nature, I tend to gravitate towards the visual aspects of the front end. However, I also find backend fascinating, in line with the interest in data and statistics which I took away from my Psychology BSc degree. </br>
 </br>
-Make sure to check out my portfolio [LINK] for examples of my work
+Make sure to check out my [portfolio]("") for examples of my work
 </br>
 </br>
 </br>
@@ -29,37 +29,20 @@ Make sure to check out my portfolio [LINK] for examples of my work
 
 # 📚 My stack
 
-## Main stack:
-
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=b80087)
 
 </br>
 
-<details>
-<summary>More Skills</summary>
-
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=4AB197)
-
-</br>
-
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Auth0-informational?style=flat&logo=auth0&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Styled_Components-informational?style=flat&logo=styled-components&logoColor=white&color=b80087)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=ff5100) ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=332df7) ![](https://img.shields.io/badge/Tools-Auth0-informational?style=flat&logo=auth0&logoColor=white&color=332df7)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=332df7)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=332df7)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=332df7)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=332df7)
+![](https://img.shields.io/badge/Tools-Gimp-informational?style=flat&logo=gimp&logoColor=white&color=332df7)
+![](https://img.shields.io/badge/Tools-Inkscape-informational?style=flat&logo=inkscape&logoColor=white&color=332df7)
 
 </details>
 
