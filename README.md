@@ -52,15 +52,15 @@ You can click the Preview link to take a look at your changes.
 
 
 PLAN:
-1. Banner DONE
-2. Social badges :DONE(?)
-4. Github stats
-5. Skills
-&bg_color=0a0404&
-----
-6. Clean up tribute page
-7. Clean up Mindactivity
-8. Clean up Squatify
-9. pinned repos
-10. Links
+1. Deploy Tribute
+2. Readme for Tribute
+
+3. Deploy Mindactivity
+4. Readme for mindactivity
+
+5. Deploy Squatify
+6. Readme for Squatify
+
+7. Portfolio website
+8. Photo
 --->
