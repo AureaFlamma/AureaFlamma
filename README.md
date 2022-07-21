@@ -3,7 +3,7 @@
 
 # 👋 Hello :)
 
-My name's Philip. I'm a buddying web developer and a current bootcamper at [School Of Code]("https://www.schoolofcode.com/"). Artistic by nature, I tend to gravitate towards the visual aspects of the front end. However, I also find backend fascinating, in line with the interest in data and statistics which I took away from my Psychology BSc degree. </br>
+My name's Philip. I'm a buddying web developer and a current bootcamper at [School Of Code](https://www.schoolofcode.com/). Artistic by nature, I tend to gravitate towards the visual aspects of the front end. However, I also find backend fascinating, in line with the interest in data and statistics which I took away from my Psychology BSc degree. </br>
 </br>
 Make sure to check out my [portfolio]("") for examples of my work
 </br>
