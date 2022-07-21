@@ -12,7 +12,7 @@ Make sure to check out my [portfolio]("") for examples of my work
 
 # 📌 Pinned repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=stage_2_step_7_tribute_page&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/stage_2_step_7_tribute_page)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=tribute_page_chesterton&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/tribute_page_chesterton)
 </br>
 </br>
 </br>
