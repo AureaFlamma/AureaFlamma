@@ -7,7 +7,7 @@
 
 My name's Philip. I'm a buddying web developer and a recent graduate of [School Of Code](https://www.schoolofcode.com/). Artistic by nature, I tend to gravitate towards the visual aspects of the front end. However, I also find backend fascinating, in line with the interest in data and statistics which I took away from my Psychology BSc degree.</br>
 </br>
-Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/) and download <a href="./assets/PK_CV.pdf" target=”_blank” download=>My CV</a>.
+Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/) and download <a href="./assets/PK_CV.pdf" target=”_blank”>My CV</a>.
 </br>
 </br>
 </br>
