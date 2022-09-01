@@ -5,7 +5,7 @@
 
 # 👋 Hello :)
 
-My name's Philip. I'm a full stack software developer.  Artistic by nature, I have a passion for creating stunning and accesible designs. As a keen problem-solver I love solving problems, whether on the front- or the backend. Backend and data are another passion of mine, in line with the interest in statistics I took away from my degree in Psychology.</br>
+My name's Philip. I'm a full stack software developer.  Artistic by nature, I have a passion for creating stunning and accesible designs. As a keen problem-solver I love solving problems, whether on the front- or the backend. Backend and data are another passion of mine, in line with the interest in statistics I took away from my degree in Psychology. I have just finished [School of Code](www.schoolofcode.com) bootcamp where I spent 16 weeks pair-programming in agile teams and delivering software!</br>
 </br>
 Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/) and download <a href="./assets/PK_CV.pdf" target=”_blank”>My CV</a>.
 </br>
