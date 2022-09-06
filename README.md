@@ -56,6 +56,11 @@ Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/)
 </br>
 ### August '22
 [![AccessU-frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=AccessU-frontend&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
+</br>
+<img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
+</br>
+### September '22
+[![Portfolio card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=portfolio_vercel&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
 
 </br>
 
@@ -80,16 +85,3 @@ AureaFlamma/AureaFlamma is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 
-PLAN:
-1. Deploy Tribute
-2. Readme for Tribute
-
-3. Deploy Mindactivity
-4. Readme for mindactivity
-
-5. Deploy Squatify
-6. Readme for Squatify
-
-7. Portfolio website
-8. Photo
---->
