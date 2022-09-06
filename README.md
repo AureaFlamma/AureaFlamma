@@ -3,11 +3,12 @@
 ![Philip's GitHub Banner](./assets/banner_darkmode.png)
 [![LinkedIn Badge](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkaminskp%2F)](https://www.linkedin.com/in/kaminskp/)
 
+
 # 👋 Hello :)
 
 My name's Philip. I'm a full stack software developer.  Artistic by nature, I have a passion for creating stunning and accesible designs. As a keen problem-solver I love solving problems, whether on the front- or the backend. Backend and data are another passion of mine, in line with the interest in statistics I took away from my degree in Psychology. I have just finished [School of Code](www.schoolofcode.com) bootcamp where I spent 16 weeks pair-programming in agile teams and delivering software!</br>
 </br>
-Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/) and download <a href="./assets/PK_CV.pdf" target=”_blank”>My CV</a>.
+Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/), download <a href="./assets/PK_CV.pdf" target=”_blank”>My CV</a> and connect with me on [LinkedIn](https://www.linkedin.com/in/kaminskp/).
 </br>
 </br>
 </br>
@@ -38,19 +39,20 @@ Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/)
 # 🚀 My journey
 
 ### April '22
+
 [![Tribute_page_chesterton card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=tribute_page_chesterton&&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/tribute_page_chesterton)
 </br>
-⬇️
+<img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### June '22
 [![Mindactivity_frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=mindactivity_frontend&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
 </br>
-⬇️
+<img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### July '22
 [![Squatify card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=Squatify-App&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
 </br>
-⬇️
+<img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### August '22
 [![AccessU-frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=AccessU-frontend&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
