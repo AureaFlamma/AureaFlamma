@@ -6,7 +6,7 @@
 
 # 👋 Hello :)
 
-My name's Philip. I'm a full stack software developer.  Artistic by nature, I have a passion for creating stunning and accesible designs. As a keen problem-solver I love solving problems, whether on the front- or the backend. Backend and data are another passion of mine, in line with the interest in statistics I took away from my degree in Psychology. I have just finished [School of Code](www.schoolofcode.com) bootcamp where I spent 16 weeks pair-programming in agile teams and delivering software!</br>
+Hey, my name's Philip. I'm a junior full stack software developer and recent Psychology BSc graduate who believes there are more ways than one to help those around us. I combine a passion for creating beautiful, functional, innovative and accessible designs with a love for data, problem-solving and scientific approach. I have just finished the amazing School of Code bootcamp where I spent 16 weeks pair-programming in Agile teams and delivering neat software (you can check it out below). </br>
 </br>
 Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/), download <a href="./assets/PK_CV.pdf" target=”_blank”>My CV</a> and connect with me on [LinkedIn](https://www.linkedin.com/in/kaminskp/).
 </br>
