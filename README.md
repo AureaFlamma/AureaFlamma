@@ -1,6 +1,6 @@
 
 
-![Philip's GitHub Banner](./assets/banner_darkmode.png)
+![Philip's GitHub Banner](./assets/banner_purple_yellow.png)
 [![LinkedIn Badge](https://img.shields.io/twitter/url?label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkaminskp%2F)](https://www.linkedin.com/in/kaminskp/)
 
 
@@ -40,36 +40,37 @@ Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/)
 
 ### April '22
 
-[![Tribute_page_chesterton card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=tribute_page_chesterton&&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/tribute_page_chesterton)
+[![Tribute_page_chesterton card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=tribute_page_chesterton&&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)](https://github.com/AureaFlamma/tribute_page_chesterton)
 </br>
 <img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### June '22
-[![Mindactivity_frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=mindactivity_frontend&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
+[![Mindactivity_frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=mindactivity_frontend&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)](https://github.com/AureaFlamma/mindactivity_frontend)
 </br>
 <img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### July '22
-[![Squatify card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=Squatify-App&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
+![Squatify card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=Squatify-App&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)
 </br>
 <img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### August '22
-[![AccessU-frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=AccessU-frontend&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
+
+![AccessU-frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=AccessU-frontend&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)
 </br>
 <img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### September '22
-[![AccessU-frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=portfolio_vercel&bg_color=90,000000,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)](https://github.com/AureaFlamma/mindactivity_frontend)
+[![AccessU-frontend card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=portfolio_vercel&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)](https://github.com/AureaFlamma/mindactivity_frontend) [![LinkClippercard](https://github-readme-stats.vercel.app/api/pin/?username=DHawkesford&repo=LinkClipper&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)](https://github.com/AureaFlamma/mindactivity_frontend)
+
 
 </br>
 
 # 📈 Github stats
 
-<!--This can be used to create a new theme- just fork the repo-->
 
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureaflamma&count_private=true&show_icons=true&bg_color=106,000000,9f0909,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureaflamma&show_icons=true&layout=compact&bg_color=106,000000,9f0909,9f0909&text_color=FFFFFF&title_color=FFFFFF&icon_color=cd8484)]
+![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=aureaflamma&count_private=true&show_icons=true&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aureaflamma&show_icons=true&layout=compact&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)
 </br>
 </br>
 </br>
