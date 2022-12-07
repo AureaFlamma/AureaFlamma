@@ -66,7 +66,7 @@ Make sure to check out my [portfolio website](https://www.philip-kaminski.tech/)
 <img src="https://user-images.githubusercontent.com/101634716/188674681-6813e567-cf55-4f4a-8eb5-4d9f3f9cf5f4.png" alt="drawing" width="50"/>
 </br>
 ### November '22
-[![Darts-game card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=Darts-Scorekeeper&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)]([https://github.com/AureaFlamma/portfolio_vercel](https://github.com/AureaFlamma/Darts-Scorekeeper))
+[![Darts-game card](https://github-readme-stats.vercel.app/api/pin/?username=aureaflamma&repo=Darts-Scorekeeper&bg_color=90,230a4d,683fe9&text_color=f7a0ff&title_color=ffff00&icon_color=ff00ff&border_color=ffff00)](https://github.com/AureaFlamma/Darts-Scorekeeper)
 
 
 </br>
